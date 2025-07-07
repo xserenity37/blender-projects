@@ -1,0 +1,2 @@
+# Exclude Open_EXR folders directly inside any 'Render' folder
+**/Render/Open_EXR/
